@@ -1,0 +1,56 @@
+: 
+: 
+moca: 1,2 
+nao: 1,2 2,1 
+olha: 1,1 
+baixo: 1,1 
+ai: 1,1 
+eh: 1,3 
+muito: 1,1 
+alto: 1,1 
+voce: 1,1 
+se: 1,2 2,1 
+jogar: 1,1 
+vou: 1,1 
+te: 1,2 
+ouir: 1,1 
+tentar: 1,1 
+convenser: 1,1 
+que: 1,4 
+vida: 1,1 
+como: 1,3 2,1 
+mae: 1,2 
+faz: 1,2 
+o: 1,2 2,1 
+jantar: 1,1 
+obriga: 1,1 
+os: 1,3 
+filhos: 1,2 
+comer: 1,1 
+vegetais: 1,1 
+pois: 1,1 
+sabe: 1,1 
+bem: 1,1 
+morte: 1,1 
+pai: 1,1 
+bate: 1,1 
+na: 1,1 
+rouba: 1,1 
+do: 1,1 
+prazer: 1,1 2,1 
+de: 1,2 2,1 
+brincar: 1,1 2,1 
+tivesse: 1,1 
+amanha: 1,1 2,1 
+ninguem: 1,1 
+ferro: 1,1 
+somos: 1,1 
+programados: 1,1 
+cair: 1,1 
+casa: 1,1 2,1 
+informacao: 2,1 
+amor: 2,1 
+linda: 2,1 
+coracao: 2,1 
+terror: 2,1 
+houvesse: 2,1 

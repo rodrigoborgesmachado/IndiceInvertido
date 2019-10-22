@@ -1,0 +1,3 @@
+casa: 1,1 2,1 
+carro: 1,1 2,1 
+informacao: 2,1 
